@@ -19,12 +19,12 @@ var assetData = [
     { id: "StartButton", src: "../../Assets/images/StartButton.png" },
     { id: "StartOverButton", src: "../../Assets/images/StartOverButton.png" },
     { id: "RollButton", src: "../../Assets/images/rollButton.png" },
-    { id: "1", src: "../../Assets/images/firstDie.png" },
-    { id: "2", src: "../../Assets/images/secondDie.png" },
-    { id: "3", src: "../../Assets/images/thirdDie.png" },
-    { id: "4", src: "../../Assets/images/fourthDie.png" },
-    { id: "5", src: "../../Assets/images/fifthDie.png" },
-    { id: "6", src: "../../Assets/images/sixthDie.png" },
+    { id: "1", src: "../../Assets/images/1.png" },
+    { id: "2", src: "../../Assets/images/2.png" },
+    { id: "3", src: "../../Assets/images/3.png" },
+    { id: "4", src: "../../Assets/images/4.png" },
+    { id: "5", src: "../../Assets/images/5.png" },
+    { id: "6", src: "../../Assets/images/6.png" },
 ];
 function preload() {
     assets = new createjs.LoadQueue();
