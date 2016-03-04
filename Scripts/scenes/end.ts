@@ -1,4 +1,9 @@
-// LEFT_CAVE SCENE
+//Source File Name: end.ts
+//Author's Name: Zachariah Toulouse
+//Date: March 4th, 2016
+//Program Description: This program is the midterm for COMP397. It was created by Zachariah Toulouse on March 4th, 2016.
+
+// END SCENE
 module scenes {
     export class End extends objects.Scene {
         //PRIVATE INSTANCE VARIABLES ++++++++++++

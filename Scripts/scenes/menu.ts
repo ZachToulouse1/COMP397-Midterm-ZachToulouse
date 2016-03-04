@@ -1,4 +1,9 @@
-﻿// MENU SCENE
+﻿//Source File Name: menu.ts
+//Author's Name: Zachariah Toulouse
+//Date: March 4th, 2016
+//Program Description: This program is the midterm for COMP397. It was created by Zachariah Toulouse on March 4th, 2016.
+
+// MENU SCENE
 module scenes {
     export class Menu extends objects.Scene {
         //PRIVATE INSTANCE VARIABLES ++++++++++++

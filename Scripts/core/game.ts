@@ -1,4 +1,9 @@
-﻿/// <reference path = "_reference.ts" />
+﻿//Source File Name: game.ts
+//Author's Name: Zachariah Toulouse
+//Date: March 4th, 2016
+//Program Description: This program is the midterm for COMP397. It was created by Zachariah Toulouse on March 4th, 2016.
+
+/// <reference path = "_reference.ts" />
 
 // global variables
 var assets: createjs.LoadQueue;
@@ -18,6 +23,7 @@ var assetData:objects.Asset[] = [
     // Add your Assets here
     {id: "StartButton", src:"../../Assets/images/StartButton.png"},
     {id: "StartOverButton", src:"../../Assets/images/StartOverButton.png"}
+    {id: ""}
 
 ];
 
