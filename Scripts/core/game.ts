@@ -19,11 +19,17 @@ var menu: scenes.Menu;
 var play: scenes.Play;
 var end: scenes.End;
 
-var assetData:objects.Asset[] = [
+var assetData: objects.Asset[] = [
     // Add your Assets here
-    {id: "StartButton", src:"../../Assets/images/StartButton.png"},
-    {id: "StartOverButton", src:"../../Assets/images/StartOverButton.png"}
-    {id: ""}
+    { id: "StartButton", src: "../../Assets/images/StartButton.png" },
+    { id: "StartOverButton", src: "../../Assets/images/StartOverButton.png" },
+    { id: "RollButton", src: "../../Assets/images/rollButton.png" },
+    { id: "FirstDie", src: "../../Assets/images/firstDie.png" },
+    { id: "SecondDie", src: "../../Assets/images/secondDie.png" },
+    { id: "ThirdDie", src: "../../Assets/images/thirdDie.png" },
+    { id: "FourthDie", src: "../../Assets/images/fourthDie.png" },
+    { id: "FifthDie", src: "../../Assets/images/fifthDie.png" },
+    { id: "SixthDie", src: "../../Assets/images/sixthDie.png" },
 
 ];
 

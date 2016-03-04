@@ -1,9 +1,13 @@
+//Source File Name: end.ts
+//Author's Name: Zachariah Toulouse
+//Date: March 4th, 2016
+//Program Description: This program is the midterm for COMP397. It was created by Zachariah Toulouse on March 4th, 2016.
 var __extends = (this && this.__extends) || function (d, b) {
     for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-// LEFT_CAVE SCENE
+// END SCENE
 var scenes;
 (function (scenes) {
     var End = (function (_super) {
@@ -37,7 +41,7 @@ var scenes;
             changeScene();
         };
         return End;
-    }(objects.Scene));
+    })(objects.Scene);
     scenes.End = End;
 })(scenes || (scenes = {}));
 //# sourceMappingURL=end.js.map

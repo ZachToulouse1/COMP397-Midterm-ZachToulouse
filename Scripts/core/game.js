@@ -1,3 +1,7 @@
+//Source File Name: game.ts
+//Author's Name: Zachariah Toulouse
+//Date: March 4th, 2016
+//Program Description: This program is the midterm for COMP397. It was created by Zachariah Toulouse on March 4th, 2016.
 /// <reference path = "_reference.ts" />
 // global variables
 var assets;
@@ -13,7 +17,14 @@ var end;
 var assetData = [
     // Add your Assets here
     { id: "StartButton", src: "../../Assets/images/StartButton.png" },
-    { id: "StartOverButton", src: "../../Assets/images/StartOverButton.png" }
+    { id: "StartOverButton", src: "../../Assets/images/StartOverButton.png" },
+    { id: "RollButton", src: "../../Assets/images/rollButton.png" },
+    { id: "FirstDie", src: "../../Assets/images/firstDie.png" },
+    { id: "SecondDie", src: "../../Assets/images/secondDie.png" },
+    { id: "ThirdDie", src: "../../Assets/images/thirdDie.png" },
+    { id: "FourthDie", src: "../../Assets/images/fourthDie.png" },
+    { id: "FifthDie", src: "../../Assets/images/fifthDie.png" },
+    { id: "SixthDie", src: "../../Assets/images/sixthDie.png" },
 ];
 function preload() {
     assets = new createjs.LoadQueue();
