@@ -24,12 +24,12 @@ var assetData: objects.Asset[] = [
     { id: "StartButton", src: "../../Assets/images/StartButton.png" },
     { id: "StartOverButton", src: "../../Assets/images/StartOverButton.png" },
     { id: "RollButton", src: "../../Assets/images/rollButton.png" },
-    { id: "FirstDie", src: "../../Assets/images/firstDie.png" },
-    { id: "SecondDie", src: "../../Assets/images/secondDie.png" },
-    { id: "ThirdDie", src: "../../Assets/images/thirdDie.png" },
-    { id: "FourthDie", src: "../../Assets/images/fourthDie.png" },
-    { id: "FifthDie", src: "../../Assets/images/fifthDie.png" },
-    { id: "SixthDie", src: "../../Assets/images/sixthDie.png" },
+    { id: "1", src: "../../Assets/images/firstDie.png" },
+    { id: "2", src: "../../Assets/images/secondDie.png" },
+    { id: "3", src: "../../Assets/images/thirdDie.png" },
+    { id: "4", src: "../../Assets/images/fourthDie.png" },
+    { id: "5", src: "../../Assets/images/fifthDie.png" },
+    { id: "6", src: "../../Assets/images/sixthDie.png" },
 
 ];
 
